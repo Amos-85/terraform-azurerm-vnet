@@ -1,3 +1,7 @@
+# 3.1.0 (Nov 5th, 2022)
+
+Added new ouput `address_prefixes`
+
 # 3.0.0 (Oct 18th, 2022)
 
 ENHANCEMENTS:
